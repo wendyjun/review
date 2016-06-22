@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../baidu1/baidu/.idea/baidu.iml" filepath="$PROJECT_DIR$/../baidu1/baidu/.idea/baidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oppo.iml" filepath="$PROJECT_DIR$/.idea/oppo.iml" />
+    </modules>
+  </component>
+</project>
+
