@@ -35,8 +35,7 @@ class BaiduPipeline(object):
                            item['game_id'].encode('utf8'),
                            item['game_download_times'].encode('utf8'),
                            item['game_size'].encode('utf8'),
-                           item['game_content'].encode('utf8'),
-
+                           item['game_content'].encode('utf8')
                            )
         cur.execute(sql)
         self.conn.commit()
